@@ -15,7 +15,9 @@ Engenheira eletricista se aventurando no mundo de desenvolvimento com grande int
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=batistajuliana&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
+
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/julianabatistars)
+
 <!--
 
 
