@@ -12,7 +12,7 @@ Engenheira eletricista se aventurando no mundo de desenvolvimento com grande int
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=batistajuliana&repo=devweekgit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=batistajuliana&repo=devweekgit.github.io)](https://github.com/batistajuliana/devweekgit.github.io)
 
 # Contatos
 
