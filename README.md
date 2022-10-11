@@ -17,7 +17,7 @@ Sou Engenheira Eletricista me aventurando no mundo dos dados desde meu TCC e ago
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rsbatistajuliana&repo=devweekgit.github.io)](https://github.com/rsbatistajuliana/devweekgit.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rsbatistajuliana&repo=devweekgit.github.io)](https://github.com/batistajuliana/devweekgit.github.io)
 --->
 
 
