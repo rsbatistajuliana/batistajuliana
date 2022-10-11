@@ -2,7 +2,7 @@
 
 ### Biografia
 
-Sou Engenheira Eletricista me aventurando no mundo dos dados desde meu TCC e agora aprofundado os estudos em soft skills e ferramentas da área.
+Sou Engenheira Eletricista me aventurando no mundo dos dados desde meu TCC e agora aprofundado os estudos em soft skills e ferramentas da área através de bootcamps e cursos livres.
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
