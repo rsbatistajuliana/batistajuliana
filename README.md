@@ -13,11 +13,11 @@ Sou Engenheira Eletricista me aventurando no mundo dos dados desde meu TCC e ago
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/julianabatistars/)
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batistajuliana&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsbatistajuliana&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=batistajuliana&repo=devweekgit.github.io)](https://github.com/batistajuliana/devweekgit.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rsbatistajuliana&repo=devweekgit.github.io)](https://github.com/batistajuliana/devweekgit.github.io)
 --->
 
 
